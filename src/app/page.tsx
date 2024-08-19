@@ -18,7 +18,7 @@ export default function Home() {
           Has
         </Link>
       </div>
-      <div className="mb-10 bg-white p-5 w-56 rounded-md shadow-lg group">
+      <div className="mb-10 bg-white p-5 w-56 rounded-md shadow-lg ">
         <input
           type="radio"
           id="item-1"
